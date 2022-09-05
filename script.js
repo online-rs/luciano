@@ -11,7 +11,7 @@ var sitenome = "https://www.reiterlog.com"
 //inserindo o H1
 var newh1 = document.createElement("h1");
 newh1.id = "titulo";
-newh1.setAttribute("class", "titulo");
+newh1.setAttribute("class", "titulo row container");
 newh1.innerHTML = nomeprincipal;
 document.getElementById("main").appendChild(newh1);
 
