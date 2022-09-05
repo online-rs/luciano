@@ -23,7 +23,7 @@ function criar(nome) {
 
   var rede = nome;
   const botaozinho = document.createElement("button");
-  botaozinho.setAttribute("class", "btn  btn-primary");
+  botaozinho.setAttribute("class", "btn  btn-primary btn-lg");
   botaozinho.id = rede;
 
   botaozinho.innerHTML = rede;
