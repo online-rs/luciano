@@ -10,8 +10,6 @@ main {
   margin: 5px;
   text-align: center;
   flex-direction: row;
-  width: 90vw;
-  height: 100%;
   background-color: white;
   border-radius: 30px;
   justify-content: center;
