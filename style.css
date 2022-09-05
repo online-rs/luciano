@@ -6,7 +6,26 @@
 
 body{
   height: 100vh;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: 10vw 80vw 10vw;
+  }
+
+.o-header{
+  grid-area: header; 
 }
+
+.o-main{
+  grid-area: main; 
+}
+
+
+.o-footer{
+  grid-area: footer; 
+}
+
 main {
   margin: 50px;
   text-align: center;
