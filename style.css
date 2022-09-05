@@ -31,5 +31,8 @@ main {
    object-fit: contain;
             }
 h1 {
- font-size: 30px; 
+ font-size: 30px;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
 }
