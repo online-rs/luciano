@@ -3,11 +3,14 @@
   padding: 0;
 }
 
+body{
+  height: 100vh;
+}
 main {
-  margin: 20px;
+  margin: 5px;
   text-align: center;
   width: 90vw;
-  height: 100vh;
+  height: 95vh;
   background-color: white;
   border-radius: 30px;
   }
@@ -24,3 +27,6 @@ main {
    height: 25%;
    object-fit: contain;
             }
+h1 {
+ font-size: 30px; 
+}
