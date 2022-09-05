@@ -9,10 +9,13 @@ body{
 main {
   margin: 5px;
   text-align: center;
+  
   width: 90vw;
   height: 70vh;
   background-color: white;
   border-radius: 30px;
+  justify-content: center;
+  align-items: center;
   }
 .btn{
   margin: 20px;
